@@ -138,7 +138,7 @@ ColorPicker:Set(Color3.fromRGB(255,255,255))
 ## Creating a Slider
 ```lua
 Tab:AddSlider({
-	Name = "Slider",
+	Name = "Jayhub",
 	Min = 0,
 	Max = 20,
 	Default = 5,
